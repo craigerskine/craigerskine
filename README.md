@@ -3,6 +3,6 @@
 
 ---
 
-![](https://img.shields.io/badge/ux-designer-tomato)
-![](https://img.shields.io/badge/guitar-nerd-tomato)
-![](https://img.shields.io/badge/biological-realist-tomato)
+![](https://img.shields.io/badge/ux-designer-tomato?style=for-the-badge)
+![](https://img.shields.io/badge/guitar-nerd-tomato?style=for-the-badge)
+![](https://img.shields.io/badge/biological-realist-tomato?style=for-the-badge)
