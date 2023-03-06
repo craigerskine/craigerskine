@@ -1,11 +1,8 @@
-### 👋
-
-- [x] 🔭 I’m currently working on web stuff
-- [x] 🌱 I’m currently learning vue
-- [x] 💬 Ask me about guitar gear
-- [x] 😄 Biological Realist
+- [🌐 Website](https://craigerskine.com/)
+- [🌐 Resume / CV](https://craigerskine.com/resume/)
 
 ---
 
-- [🌐 Website](https://craigerskine.com/)
-- [🌐 Resume / CV](https://craigerskine.com/resume/)
+![](https://img.shields.io/badge/ux-designer-tomato)
+![](https://img.shields.io/badge/guitar-nerd-tomato)
+![](https://img.shields.io/badge/biological-realist-tomato)
