@@ -1,6 +1,7 @@
 [![wireframe](https://user-images.githubusercontent.com/56437/227197828-97dea59d-8fdd-4865-afb5-184abd294bad.png)](https://craigerskine.com/)
 
-::: [🌐 Website](https://craigerskine.com/) ::: [🌐 Resume](https://craigerskine.com/resume/)
+[![](https://img.shields.io/badge/website-white?logo=html5)](https://craigerskine.com/)
+[![](https://img.shields.io/badge/resume-white?logo=readme)](https://craigerskine.com/resume/)
 
 ***
 
