@@ -4,4 +4,4 @@
 [![](https://img.shields.io/badge/resume-gainsboro?logo=readme)](https://craigerskine.com/resume/)
 [![](https://img.shields.io/badge/ux_designer-darkslategray?logo=sketch)](https://craigerskine.com/)
 [![](https://img.shields.io/badge/guitar_nerd-darkslategray?logo=apple-music)](https://craigerskine.com/)
-![](https://img.shields.io/badge/biological_realist-darkslategray?logo=about.me)
+[![](https://img.shields.io/badge/biological_realist-darkslategray?logo=about.me)](https://about.me/craigerskine/)
